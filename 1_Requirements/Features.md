@@ -1,4 +1,6 @@
 #**IDENTIFYING FEATURES**
+
+
 The computer implementation of the game TicTac-Toe has many features as compared to
 the traditional way of playing it with paper and pencil. The various features are:
 • The game has been made user friendly
