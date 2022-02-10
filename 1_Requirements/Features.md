@@ -10,6 +10,8 @@ the traditional way of playing it with paper and pencil. The various features ar
 
 
 #**STATE OF ART/RESEARCH**
+
+
 Games provide a real source of enjoyment in daily life. Games also are helpful in improving the physical and
 mental health of human. Apart from daily life physical games, people also play computer games. These games
 are different than those of physical games in a sense that they do not involve much physical activity rather
@@ -32,9 +34,13 @@ next.
 #**4W'S AND 1H**
 
 #**WHO**
+
+
 For all age group people
 
 #**WHAT**
+
+
 • The game is played between two players • Both players choose their respective symbols to mark •
 Player 1 starts the turn by placing his/her symbol on any of the nine squares • Then player 2 marks
 the turn by placing his/her symbol on the empty squares • Both players make their turns alternately
@@ -42,12 +48,18 @@ the turn by placing his/her symbol on the empty squares • Both players make th
 game.
 
 #**WHEN**
+
+
 During the Free Time .
 
 #**WHERE**
+
+
 On the Computer 
 
 #**HOW**
+
+
 Can easily start the game and choose where to Place the symbol.
 
 
@@ -57,11 +69,15 @@ Can easily start the game and choose where to Place the symbol.
 
 
 #**REQUIREMENTS**
+
+
 Computer system with minimum P4 processor .
 
 
 
 #**BEST METHOD FOLLOWED**
+
+
 Used logical variable names to avoid any confusion.
 Used functions whenever the code seems too long and the task that we need to perform is
 operation specific and multiple.
