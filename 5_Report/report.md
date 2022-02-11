@@ -28,13 +28,16 @@ The Tic-Tac-Toe game is most familiar among all the age groups. The friendliness
 
 
 #**When**
+
 ##During the Free Time .
 
 
 #**Where**
+
 On the Computer
 
 #**How**
+
 ##Can easily start the game and choose where to Place the symbol .
 
 
@@ -44,6 +47,7 @@ On the Computer
 
 
 #**Requirements**
+
 ##Computer system with minimum P4 processor .
 
 
