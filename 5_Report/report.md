@@ -69,7 +69,12 @@ On the Computer
 ![testplan](https://user-images.githubusercontent.com/98878326/153590203-b1f02bd2-52ee-41c6-8064-fa6f9d47c344.png)
 
 
+#**Best Practices**
+ Checked all the possibilities of output
+ Both High level and low level Test plans are shown
 
+
+** Implementation is done and the file runs succesfully
 
 
 
