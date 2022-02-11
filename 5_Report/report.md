@@ -1,4 +1,4 @@
-#**dentifying features**
+#**Identifying features**
 
 The computer implementation of the game TicTac-Toe has many features as compared to the traditional way of playing it with paper and pencil.
 
