@@ -58,6 +58,11 @@ On the Computer
 ##Used comments to understand every working of methods .
 
 
+#**FLOWCHART**
+
+![flowchrt tic](https://user-images.githubusercontent.com/98878326/153589670-6f4f6b48-ab02-4173-9e73-8eedd86e8a8c.jpeg)
+
+
 
 
 
