@@ -1,5 +1,5 @@
-PROJ_NAME = voting_system
-SRC = Voter_Info.c voting_main.c main_votingSys.c
+PROJ_NAME = TIC TAC TOE
+SRC = Tic-tac-toe.c
 
 ifdef OS
    RM = del /q
