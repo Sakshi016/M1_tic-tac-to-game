@@ -1,2 +1,3 @@
 #**TEST PLAN**
-[Test.plan.docx](https://github.com/Sakshi016/M1_tic-tac-to-game/files/8053154/Test.plan.docx)
+![TESTPLAN NEW](https://user-images.githubusercontent.com/98878326/153706958-e76ae84a-2162-4eb2-960c-cc1f7bc74e66.png)
+
