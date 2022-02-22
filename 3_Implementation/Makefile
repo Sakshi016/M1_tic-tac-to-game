@@ -1,5 +1,6 @@
-PROJ_NAME = TIC TAC TOE
-SRC = Tic-tac-toe.c
+PROJ_NAME = TIC_TAC_TOE
+SRC = game.c resetBoard.c printBoard.c checkFreeSpaces.c playerMove.c computerMove.c checkWinner.c printWinner.c player2Move.c
+
 
 ifdef OS
    RM = del /q
