@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include"game.h"
-//global varaible
-
 
 //function Prototype
 extern void resetBoard();
@@ -15,8 +13,14 @@ extern char checkWinner();
 extern void printWinner(char);
 extern void player2Move();
 
+
 int main()
 {
+   PLAYER1 = 'X';
+ PLAYER2 = '0';
+COMPUTER = 'O';
+
+   
     printf("For Player vs Player please enter : p\n");
     printf("For Player vs computer please enter : c\n");
     scanf("%c",&choice);
@@ -69,5 +73,3 @@ int main()
 
    return 0;
 }
-
-

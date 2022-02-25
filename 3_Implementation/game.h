@@ -1,9 +1,10 @@
 #ifndef GAME_H
 #define GAME_H
+
 char board[3][3];
-const char PLAYER1 = 'X';
-const char PLAYER2 = '0';
-const char COMPUTER = 'O';
+ char PLAYER1 ;
+ char PLAYER2 ;
+char COMPUTER ;
 char choice;
 
 
