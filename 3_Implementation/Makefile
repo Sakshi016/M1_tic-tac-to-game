@@ -20,5 +20,18 @@ build:
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
+run_test : build_test
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+staticcheck : 
+	cppcheck --enable=all -iunity .
+
+dynamic_analysis : build
+	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+	
+coverage:
+	gcc -fprofile-arcs -ftest-coverage $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcov -a ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
 clean:
 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
