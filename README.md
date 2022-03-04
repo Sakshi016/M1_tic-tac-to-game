@@ -3,3 +3,7 @@
 ![Codiga Badeges](https://api.codiga.io/project/31203/score/svg)
 ![Codiga Badeges](https://api.codiga.io/project/31203/status/svg)
 [![Codeac](https://static.codeac.io/badges/2-456190069.svg "Codeac")](https://app.codeac.io/github/Sakshi016/M1_tic-tac-to-game)
+[![BUILD](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/c-cpp.yml)
+[![dynamic_check](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/dynamic_check.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/dynamic_check.yml)
+[![static_check](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/static_check.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/static_check.yml)
+[![unity](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/unity.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/unity.yml)
