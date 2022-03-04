@@ -8,7 +8,7 @@
 [![static_check](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/static_check.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/static_check.yml)
 [![unity](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/unity.yml/badge.svg)](https://github.com/Sakshi016/M1_tic-tac-to-game/actions/workflows/unity.yml)
 
-
+## contents
 | Folder              | Description                                                                                                     |
 | :------------------ | :-------------------------------------------------------------------------------------------------------------- |
 | 0_Certificates      |  certifications for the project                                                                      |
